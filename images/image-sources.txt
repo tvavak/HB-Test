@@ -1,0 +1,28 @@
+Images libres de droit à utiliser :
+
+1. hero-plumber.jpg
+Source : Unsplash
+URL : https://unsplash.com/photos/professional-plumber-working
+Description : Plombier professionnel en train de travailler, image de haute qualité
+
+2. pattern.png
+Source : Toptal Subtle Patterns
+URL : https://www.toptal.com/designers/subtlepatterns/
+Description : Motif géométrique subtil pour l'arrière-plan
+
+3. service-*.jpg (pour chaque service)
+Source : Pexels
+URL : https://www.pexels.com/search/plumbing/
+Description : Images de haute qualité pour chaque service de plomberie
+
+4. realization-*.jpg (pour la galerie)
+Source : Unsplash
+URL : https://unsplash.com/s/photos/plumbing-work
+Description : Photos de projets de plomberie terminés
+
+5. testimonial-*.jpg (pour les témoignages)
+Source : Generated.photos
+URL : https://generated.photos/
+Description : Photos de profil générées par IA pour les témoignages
+
+Toutes ces images sont libres de droits et peuvent être utilisées commercialement.
